@@ -1,0 +1,5 @@
+{
+    "suggest": {
+        "docopt/docopt": "This package no longer exists. Please use the official docopt package at docopt/docopt."
+    }
+}
